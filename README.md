@@ -5,4 +5,4 @@ This is my first step into it.
 
 
 NOTE:
-     *Sorry if any the sentence offends you
+     *Sorry if any of the sentence offends you
