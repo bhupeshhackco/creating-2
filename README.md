@@ -1,8 +1,8 @@
 Hello there :)
-I am the programmer of this project.
+I am the coder of this project.
 This is solely done for the purpose of imporving my skills in web development.
 This is my first step into it.
 
 
 NOTE:
-     *Sorry if any of the sentence offends you
+    Please support me by sharing me how to improve more efficienty in this path .
